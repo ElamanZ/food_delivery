@@ -35,3 +35,27 @@
 .order__btn:hover {
     background: #212245;
 }
+
+.hero__service p {
+    color      : #212245;
+    font-weight: 600;
+    font-style : 0.9rem;
+}
+
+.all__foods-btn {
+    background: transparent;
+    border    : 1px solid #df2020 !important;
+}
+
+.all__foods-btn a {
+    color: #df2020;
+}
+
+.shipping__icon i {
+    padding      : 5px;
+    background   : #df2020;
+    color        : #fff;
+    border-radius: 50%;
+    font-weight: 500 !important;
+}
+
