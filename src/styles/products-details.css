@@ -1,0 +1,15 @@
+.single__product-content {
+    padding-left: 50px;
+}
+.product__price span{
+    font-size: 2rem;
+}
+.category {
+    font-weight: 500;
+    color: #212245;
+}
+
+.category span {
+    padding: 3px 7px;
+    
+}
