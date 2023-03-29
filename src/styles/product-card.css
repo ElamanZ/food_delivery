@@ -26,7 +26,7 @@
     font-weight: 600;
     font-size: 1.2rem;
     color: #fd2020;
-    
+    transform: scale(0.1);
 }
 
 .addTOcart__btn {
@@ -36,6 +36,13 @@
     color: #fff;
     border-radius: 5px;
     font-size: 0.9rem;
+    transition: 100ms ease-in-out, transform 40ms ease-in-out;
+
+}
+
+.addTOcart__btn:active {
+    transform: scale(0.97);
+    color: #212245;
 }
 
 @media only screen and (max-width: 992px) {
