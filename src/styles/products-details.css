@@ -7,6 +7,7 @@
     align-items  : center;
     column-gap   : 1rem;
     margin-bottom: 0;
+    transform: none;
 }
 
 .product__price span {
